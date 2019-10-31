@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "fs.h": "c"
+    },
+
+    "C_Cpp.default.includePath":[
+        "/home/robert/projects/02_source/linux-3.14.52/include",
+        "/home/robert/projects/02_source/linux-3.14.52",
+        "/home/robert/projects/02_source/linux-3.14.52/arch/arm/include"
+
+    ]
+}
